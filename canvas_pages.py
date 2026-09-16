@@ -6,7 +6,7 @@ import sys
 # ==========================================
 # CONFIGURATION
 # ==========================================
-TOKEN = ""  # Leave blank to be prompted, or paste your token here
+TOKEN = ""  # paste your token here
 BASE_URL = "https://aui.instructure.com/api/v1"
 OUTPUT_DIR = "./Canvas_Downloads" # Will create this folder in your current directory
 
